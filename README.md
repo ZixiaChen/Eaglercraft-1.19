@@ -2,7 +2,7 @@
 
 ### Play real Minecraft 1.19 in your browser
 
-![EaglercraftX 1.19.4 Screenshot Main Menu]([https://github.com/ZixiaChen/Eaglercraft-1.19/blob/main/Screenshot%202024-05-21%202.12.22%20PM.png?raw=true)
+![EaglercraftX 1.19.4 Screenshot Main Menu]([https://github.com/ZixiaChen/Eaglercraft-1.19/blob/main/Screenshot%202024-05-21%202.12.22%20PM.png?raw=true])
 
 ## ATTENTION MOJANG/MICROSOFT EMPLOYEE ASSIGNED TO STALK ME:
 
